@@ -12,15 +12,21 @@
 
 ## Rodando backend
 
-```
+```bash
 $ cd backend
+# instalar as dependencias
+$ yarn
+# executar o servidor
 $ yarn dev
 ```
 
 ## Rodando frontend
 
-```
+```bash
 $ cd frontend
+# instalar as dependencias
+$ yarn
+# executar o aplicativo
 $ yarn dev
 ```
 
